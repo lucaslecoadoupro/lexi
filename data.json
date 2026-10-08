@@ -1,3 +1,1551 @@
 {
- "sequences": []
+ "sequences": [
+  {
+   "id": "de-mi-a-ti",
+   "title": "De mí a ti",
+   "desc": "Séquence 1 · Identité, amitié et rencontre avec l’autre",
+   "level": "3ème",
+   "color": "green",
+   "published": true,
+   "words": [
+    {
+     "es": "la identidad",
+     "fr": "l’identité",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "la personalidad",
+     "fr": "la personnalité",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "el carácter",
+     "fr": "le caractère",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "una cualidad",
+     "fr": "une qualité",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "un defecto",
+     "fr": "un défaut",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "los valores",
+     "fr": "les valeurs",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "los gustos",
+     "fr": "les goûts",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "los intereses",
+     "fr": "les centres d’intérêt",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "una opinión",
+     "fr": "une opinion",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "la manera de pensar",
+     "fr": "la manière de penser",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "la manera de actuar",
+     "fr": "la manière d’agir",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "ser uno mismo",
+     "fr": "être soi-même",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "conocerse",
+     "fr": "se connaître",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "aceptarse",
+     "fr": "s’accepter",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "quererse a sí mismo",
+     "fr": "s’aimer soi-même",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "expresarse",
+     "fr": "s’exprimer",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "pensar",
+     "fr": "penser",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "sentir",
+     "fr": "ressentir",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "actuar",
+     "fr": "agir",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "mejorar",
+     "fr": "s’améliorer",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "convertirse en",
+     "fr": "devenir",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "formar parte de",
+     "fr": "faire partie de",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "las expectativas de los demás",
+     "fr": "les attentes des autres",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "sentirse aceptado / sentirse aceptada",
+     "fr": "se sentir accepté / se sentir acceptée",
+     "cat": "L’identité et la connaissance de soi",
+     "ex": ""
+    },
+    {
+     "es": "auténtico / auténtica",
+     "fr": "authentique",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "sincero / sincera",
+     "fr": "sincère",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "honesto / honesta",
+     "fr": "honnête",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "generoso / generosa",
+     "fr": "généreux / généreuse",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "comprensivo / comprensiva",
+     "fr": "compréhensif / compréhensive",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "respetuoso / respetuosa",
+     "fr": "respectueux / respectueuse",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "tolerante",
+     "fr": "tolérant / tolérante",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "fiel",
+     "fr": "fidèle",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "leal",
+     "fr": "loyal / loyale",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "amable",
+     "fr": "aimable",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "simpático / simpática",
+     "fr": "sympathique",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "divertido / divertida",
+     "fr": "amusant / amusante",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "gracioso / graciosa",
+     "fr": "drôle",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "alegre",
+     "fr": "joyeux / joyeuse",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "optimista",
+     "fr": "optimiste",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "tímido / tímida",
+     "fr": "timide",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "reservado / reservada",
+     "fr": "réservé / réservée",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "sociable",
+     "fr": "sociable",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "tranquilo / tranquila",
+     "fr": "calme",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "curioso / curiosa",
+     "fr": "curieux / curieuse",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "creativo / creativa",
+     "fr": "créatif / créative",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "sensible",
+     "fr": "sensible",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "paciente",
+     "fr": "patient / patiente",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "responsable",
+     "fr": "responsable",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "valiente",
+     "fr": "courageux / courageuse",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "egoísta",
+     "fr": "égoïste",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "celoso / celosa",
+     "fr": "jaloux / jalouse",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "mentiroso / mentirosa",
+     "fr": "menteur / menteuse",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "bastante",
+     "fr": "assez",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "demasiado",
+     "fr": "trop",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "un poco",
+     "fr": "un peu",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "muy",
+     "fr": "très",
+     "cat": "Décrire la personnalité",
+     "ex": ""
+    },
+    {
+     "es": "gustar",
+     "fr": "plaire",
+     "cat": "Les goûts et les activités",
+     "ex": "Me gusta el teatro."
+    },
+    {
+     "es": "me gusta",
+     "fr": "j’aime",
+     "cat": "Les goûts et les activités",
+     "ex": "Me gusta escuchar música."
+    },
+    {
+     "es": "me gustan",
+     "fr": "j’aime, devant un nom pluriel",
+     "cat": "Les goûts et les activités",
+     "ex": "Me gustan los videojuegos."
+    },
+    {
+     "es": "me encanta",
+     "fr": "j’adore",
+     "cat": "Les goûts et les activités",
+     "ex": "Me encanta dibujar."
+    },
+    {
+     "es": "preferir",
+     "fr": "préférer",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "interesarse por",
+     "fr": "s’intéresser à",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "el deporte",
+     "fr": "le sport",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "la música",
+     "fr": "la musique",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "el teatro",
+     "fr": "le théâtre",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "la lectura",
+     "fr": "la lecture",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "el cine",
+     "fr": "le cinéma",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "los videojuegos",
+     "fr": "les jeux vidéo",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "dibujar",
+     "fr": "dessiner",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "leer",
+     "fr": "lire",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "escuchar música",
+     "fr": "écouter de la musique",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "hacer deporte",
+     "fr": "faire du sport",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "salir con amigos",
+     "fr": "sortir avec des amis",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "una actividad",
+     "fr": "une activité",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "compartir intereses",
+     "fr": "partager des centres d’intérêt",
+     "cat": "Les goûts et les activités",
+     "ex": ""
+    },
+    {
+     "es": "la amistad",
+     "fr": "l’amitié",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "un amigo / una amiga",
+     "fr": "un ami / une amie",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "el mejor amigo / la mejor amiga",
+     "fr": "le meilleur ami / la meilleure amie",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "los amigos de siempre",
+     "fr": "les amis de toujours",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "una amistad duradera",
+     "fr": "une amitié durable",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "la confianza",
+     "fr": "la confiance",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "la sinceridad",
+     "fr": "la sincérité",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "la reciprocidad",
+     "fr": "la réciprocité",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "el respeto",
+     "fr": "le respect",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "la lealtad",
+     "fr": "la loyauté",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "la solidaridad",
+     "fr": "la solidarité",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "el apoyo",
+     "fr": "le soutien",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "la ayuda",
+     "fr": "l’aide",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "la comprensión",
+     "fr": "la compréhension",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "una relación",
+     "fr": "une relation",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "un vínculo",
+     "fr": "un lien",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "valorar",
+     "fr": "accorder de l’importance à",
+     "cat": "L’amitié et ses valeurs",
+     "ex": "Valoro la sinceridad."
+    },
+    {
+     "es": "confiar en alguien",
+     "fr": "faire confiance à quelqu’un",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "apoyar a alguien",
+     "fr": "soutenir quelqu’un",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "apoyarse",
+     "fr": "se soutenir mutuellement",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "ayudar",
+     "fr": "aider",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "escuchar",
+     "fr": "écouter",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "respetar",
+     "fr": "respecter",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "compartir",
+     "fr": "partager",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "juzgar",
+     "fr": "juger",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "mentir",
+     "fr": "mentir",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "guardar un secreto",
+     "fr": "garder un secret",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "contar con alguien",
+     "fr": "pouvoir compter sur quelqu’un",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "sentirse valorado / sentirse valorada",
+     "fr": "se sentir valorisé / se sentir valorisée",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "estar a mi lado",
+     "fr": "être à mes côtés",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "estar presente",
+     "fr": "être présent",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "aportar",
+     "fr": "apporter",
+     "cat": "L’amitié et ses valeurs",
+     "ex": ""
+    },
+    {
+     "es": "los demás",
+     "fr": "les autres",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "el encuentro",
+     "fr": "la rencontre",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "conocer a alguien",
+     "fr": "faire la connaissance de quelqu’un",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "acercarse a alguien",
+     "fr": "se rapprocher de quelqu’un",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "relacionarse con los demás",
+     "fr": "nouer des relations avec les autres",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "hacerse amigos",
+     "fr": "devenir amis",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "crear un vínculo",
+     "fr": "créer un lien",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "llevarse bien con alguien",
+     "fr": "bien s’entendre avec quelqu’un",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "entenderse",
+     "fr": "se comprendre",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "conversar",
+     "fr": "discuter",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "reunirse",
+     "fr": "se réunir",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "pasar tiempo juntos",
+     "fr": "passer du temps ensemble",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "compartir experiencias",
+     "fr": "partager des expériences",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "acompañar",
+     "fr": "accompagner",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "unir",
+     "fr": "unir",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "la comunicación",
+     "fr": "la communication",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "las redes sociales",
+     "fr": "les réseaux sociaux",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "mantener el contacto",
+     "fr": "garder le contact",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "sentirse solo / sentirse sola",
+     "fr": "se sentir seul / se sentir seule",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "sentirse acompañado / sentirse acompañada",
+     "fr": "se sentir entouré / se sentir entourée",
+     "cat": "Rencontrer les autres et créer des liens",
+     "ex": ""
+    },
+    {
+     "es": "una diferencia",
+     "fr": "une différence",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "una semejanza",
+     "fr": "une ressemblance",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "parecerse a",
+     "fr": "ressembler à",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "ser diferente de",
+     "fr": "être différent de",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "ser parecido a",
+     "fr": "être semblable à",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "tener algo en común",
+     "fr": "avoir quelque chose en commun",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "tener los mismos gustos",
+     "fr": "avoir les mêmes goûts",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "compartir los mismos valores",
+     "fr": "partager les mêmes valeurs",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "aceptar las diferencias",
+     "fr": "accepter les différences",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "superar las diferencias",
+     "fr": "dépasser les différences",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "aprender de los demás",
+     "fr": "apprendre des autres",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "otra cultura",
+     "fr": "une autre culture",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "el origen",
+     "fr": "l’origine",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "el país",
+     "fr": "le pays",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "el idioma / la lengua",
+     "fr": "la langue",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "la integración",
+     "fr": "l’intégration",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "un prejuicio",
+     "fr": "un préjugé",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "abrirse a los demás",
+     "fr": "s’ouvrir aux autres",
+     "cat": "Les différences et la rencontre interculturelle",
+     "ex": ""
+    },
+    {
+     "es": "un barrio",
+     "fr": "un quartier",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "un barrio obrero",
+     "fr": "un quartier populaire",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "el entorno",
+     "fr": "l’environnement",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "el ambiente",
+     "fr": "l’ambiance",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "la juventud",
+     "fr": "la jeunesse",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "los jóvenes",
+     "fr": "les jeunes",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "la vida",
+     "fr": "la vie",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "la vida cotidiana",
+     "fr": "la vie quotidienne",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "los estudios universitarios",
+     "fr": "les études universitaires",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "la universidad",
+     "fr": "l’université",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "un lugar",
+     "fr": "un lieu",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "una experiencia",
+     "fr": "une expérience",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "un cambio",
+     "fr": "un changement",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "una etapa",
+     "fr": "une étape",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "crecer",
+     "fr": "grandir",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "vivir",
+     "fr": "vivre",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "estudiar",
+     "fr": "étudier",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "descubrir",
+     "fr": "découvrir",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "frecuentar",
+     "fr": "fréquenter",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "cambiar",
+     "fr": "changer",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "evolucionar",
+     "fr": "évoluer",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "influir en",
+     "fr": "avoir une influence sur",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": ""
+    },
+    {
+     "es": "conseguir",
+     "fr": "réussir à",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": "Consiguen entenderse."
+    },
+    {
+     "es": "intentar",
+     "fr": "essayer de",
+     "cat": "L’environnement et le parcours de vie",
+     "ex": "Intenta descubrir quién es."
+    },
+    {
+     "es": "antes",
+     "fr": "avant",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "ahora",
+     "fr": "maintenant",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "al principio",
+     "fr": "au début",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "poco a poco",
+     "fr": "petit à petit",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "con el paso de los años",
+     "fr": "au fil des années",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "durante",
+     "fr": "pendant",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "mientras",
+     "fr": "pendant que",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "ya no",
+     "fr": "ne plus",
+     "cat": "Exprimer une évolution",
+     "ex": "Ya no soy tan tímido."
+    },
+    {
+     "es": "todavía",
+     "fr": "encore",
+     "cat": "Exprimer une évolution",
+     "ex": "Todavía somos amigos."
+    },
+    {
+     "es": "empezar a",
+     "fr": "commencer à",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "dejar de",
+     "fr": "arrêter de",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "seguir siendo",
+     "fr": "être toujours",
+     "cat": "Exprimer une évolution",
+     "ex": "Quiero seguir siendo yo mismo."
+    },
+    {
+     "es": "aprender a",
+     "fr": "apprendre à",
+     "cat": "Exprimer une évolution",
+     "ex": ""
+    },
+    {
+     "es": "para mí",
+     "fr": "pour moi",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "en mi opinión",
+     "fr": "à mon avis",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "creo que",
+     "fr": "je crois que",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "pienso que",
+     "fr": "je pense que",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "me parece que",
+     "fr": "il me semble que",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "desde mi punto de vista",
+     "fr": "de mon point de vue",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "estoy de acuerdo",
+     "fr": "je suis d’accord",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "no estoy de acuerdo",
+     "fr": "je ne suis pas d’accord",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "porque",
+     "fr": "parce que",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "por eso",
+     "fr": "c’est pourquoi",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "gracias a",
+     "fr": "grâce à",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "por ejemplo",
+     "fr": "par exemple",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "es importante",
+     "fr": "c’est important",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "es esencial",
+     "fr": "c’est essentiel",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "lo que importa",
+     "fr": "ce qui compte",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "tener razón",
+     "fr": "avoir raison",
+     "cat": "Donner et justifier son opinion",
+     "ex": ""
+    },
+    {
+     "es": "más que",
+     "fr": "plus que",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": "Sara es más sociable que Pedro."
+    },
+    {
+     "es": "menos que",
+     "fr": "moins que",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": "Soy menos tímido que antes."
+    },
+    {
+     "es": "tan como",
+     "fr": "aussi que",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": "Ana es tan generosa como su amiga."
+    },
+    {
+     "es": "pero",
+     "fr": "mais",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": ""
+    },
+    {
+     "es": "sin embargo",
+     "fr": "cependant",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": ""
+    },
+    {
+     "es": "aunque",
+     "fr": "bien que / même si",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": "Aunque somos diferentes, somos amigos."
+    },
+    {
+     "es": "a pesar de",
+     "fr": "malgré",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": ""
+    },
+    {
+     "es": "en cambio",
+     "fr": "en revanche",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": ""
+    },
+    {
+     "es": "también",
+     "fr": "aussi",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": ""
+    },
+    {
+     "es": "tampoco",
+     "fr": "non plus",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": ""
+    },
+    {
+     "es": "además",
+     "fr": "de plus",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": ""
+    },
+    {
+     "es": "deber",
+     "fr": "devoir",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": "Un amigo debe escuchar."
+    },
+    {
+     "es": "tener que",
+     "fr": "devoir / être obligé de",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": "Tenemos que respetar a los demás."
+    },
+    {
+     "es": "no deber",
+     "fr": "ne pas devoir",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": "No debemos juzgar a los demás."
+    },
+    {
+     "es": "hay que",
+     "fr": "il faut",
+     "cat": "Comparer, opposer et exprimer une obligation",
+     "ex": "Hay que aceptar las diferencias."
+    },
+    {
+     "es": "el mate",
+     "fr": "le maté, la boisson ou son récipient",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "la yerba mate",
+     "fr": "l’herbe à maté",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "la bombilla",
+     "fr": "la paille métallique à maté",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "el termo",
+     "fr": "le thermos",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "una infusión",
+     "fr": "une infusion",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "la rueda del mate",
+     "fr": "le cercle de partage du maté",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "el cebador / la cebadora",
+     "fr": "la personne qui prépare et sert le maté",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "cebar mate",
+     "fr": "préparer et servir le maté",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "tomar mate",
+     "fr": "boire du maté",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "beber",
+     "fr": "boire",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "ofrecer",
+     "fr": "offrir / proposer",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "preparar",
+     "fr": "préparer",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "servir",
+     "fr": "servir",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "esperar su turno",
+     "fr": "attendre son tour",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "pasar de mano en mano",
+     "fr": "passer de main en main",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "una costumbre",
+     "fr": "une coutume",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "una tradición",
+     "fr": "une tradition",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "un ritual",
+     "fr": "un rituel",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "reforzar una amistad",
+     "fr": "renforcer une amitié",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "de generación en generación",
+     "fr": "de génération en génération",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "uruguayo / uruguaya",
+     "fr": "uruguayen / uruguayenne",
+     "cat": "La culture du maté",
+     "ex": ""
+    },
+    {
+     "es": "una carta",
+     "fr": "une lettre",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "mi yo del futuro",
+     "fr": "mon moi du futur",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "el futuro",
+     "fr": "l’avenir",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "un recuerdo",
+     "fr": "un souvenir",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "un sueño",
+     "fr": "un rêve",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "un deseo",
+     "fr": "un souhait",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "un proyecto",
+     "fr": "un projet",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "una meta",
+     "fr": "un objectif",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "recordar",
+     "fr": "se souvenir de",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "olvidar",
+     "fr": "oublier",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "desear",
+     "fr": "souhaiter",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "esperar",
+     "fr": "espérer",
+     "cat": "Écrire à son futur soi",
+     "ex": "Espero tener buenos amigos."
+    },
+    {
+     "es": "querer ser",
+     "fr": "vouloir être",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "me gustaría",
+     "fr": "j’aimerais",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "quiero aprender a",
+     "fr": "je veux apprendre à",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "lo que me define",
+     "fr": "ce qui me définit",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "lo que siento",
+     "fr": "ce que je ressens",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "lo que quiero conservar",
+     "fr": "ce que je veux conserver",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "seguir en contacto",
+     "fr": "rester en contact",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "cuidar a mis amigos",
+     "fr": "prendre soin de mes amis",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "con cariño",
+     "fr": "affectueusement",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    },
+    {
+     "es": "hasta pronto",
+     "fr": "à bientôt",
+     "cat": "Écrire à son futur soi",
+     "ex": ""
+    }
+   ],
+   "updatedAt": 1791463398970
+  }
+ ]
 }
