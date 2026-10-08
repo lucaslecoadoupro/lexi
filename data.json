@@ -1546,6 +1546,1829 @@
     }
    ],
    "updatedAt": 1791463398970
+  },
+  {
+   "id": "de-la-leyenda-a-la-pantalla",
+   "title": "De la leyenda a la pantalla",
+   "desc": "Séquence 2 · Légendes, mystère et cinéma",
+   "level": "3ème",
+   "color": "blue",
+   "published": true,
+   "words": [
+    {
+     "es": "una leyenda",
+     "fr": "une légende",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "una leyenda urbana",
+     "fr": "une légende urbaine",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "un relato",
+     "fr": "un récit",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "una historia",
+     "fr": "une histoire",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "un misterio",
+     "fr": "un mystère",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "un secreto",
+     "fr": "un secret",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "un fantasma",
+     "fr": "un fantôme",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "un espíritu",
+     "fr": "un esprit",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "una aparición",
+     "fr": "une apparition",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "el alma",
+     "fr": "l’âme",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "una maldición",
+     "fr": "une malédiction",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "un castigo",
+     "fr": "une punition",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "la muerte",
+     "fr": "la mort",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "el pasado",
+     "fr": "le passé",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "sobrenatural",
+     "fr": "surnaturel",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "fantasmal",
+     "fr": "fantomatique",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "inexplicable",
+     "fr": "inexplicable",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "eterno / eterna",
+     "fr": "éternel / éternelle",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "aparecer",
+     "fr": "apparaître",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "desaparecer",
+     "fr": "disparaître",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "volver",
+     "fr": "revenir",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "seguir presente",
+     "fr": "rester présent",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "según cuenta la leyenda",
+     "fr": "selon la légende",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "cuentan que",
+     "fr": "on raconte que",
+     "cat": "Les légendes et le surnaturel",
+     "ex": ""
+    },
+    {
+     "es": "el miedo",
+     "fr": "la peur",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "el terror",
+     "fr": "la terreur",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "la angustia",
+     "fr": "l’angoisse",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "la inquietud",
+     "fr": "l’inquiétude",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "la sorpresa",
+     "fr": "la surprise",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "la duda",
+     "fr": "le doute",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "la tristeza",
+     "fr": "la tristesse",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "la desesperación",
+     "fr": "le désespoir",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "la culpa",
+     "fr": "la culpabilité",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "sentir miedo / tener miedo",
+     "fr": "avoir peur",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "dar miedo",
+     "fr": "faire peur",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "asustar",
+     "fr": "effrayer",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "asustarse",
+     "fr": "prendre peur",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "temblar",
+     "fr": "trembler",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "gritar",
+     "fr": "crier",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "huir",
+     "fr": "fuir",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "quedarse inmóvil",
+     "fr": "rester immobile",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "estar asustado / estar asustada",
+     "fr": "avoir peur / être effrayé",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "estar desesperado / estar desesperada",
+     "fr": "être désespéré / être désespérée",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "estar sorprendido / estar sorprendida",
+     "fr": "être surpris / être surprise",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "sentirse culpable",
+     "fr": "se sentir coupable",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "arrepentirse",
+     "fr": "regretter ses actes",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "misterioso / misteriosa",
+     "fr": "mystérieux / mystérieuse",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "inquietante",
+     "fr": "inquiétant / inquiétante",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "aterrador / aterradora",
+     "fr": "terrifiant / terrifiante",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "terrorífico / terrorífica",
+     "fr": "terrifiant / terrifiante",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "extraño / extraña",
+     "fr": "étrange",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "tranquilo / tranquila",
+     "fr": "calme",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "triste",
+     "fr": "triste",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "peligroso / peligrosa",
+     "fr": "dangereux / dangereuse",
+     "cat": "La peur et les émotions",
+     "ex": ""
+    },
+    {
+     "es": "un pueblo",
+     "fr": "un village",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "un lugar",
+     "fr": "un lieu",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "una casa",
+     "fr": "une maison",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "un río",
+     "fr": "une rivière / un fleuve",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "un canal",
+     "fr": "un canal",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "el agua",
+     "fr": "l’eau",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "la orilla",
+     "fr": "la rive",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "un bosque",
+     "fr": "une forêt",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "la noche",
+     "fr": "la nuit",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "la oscuridad",
+     "fr": "l’obscurité",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "una sombra",
+     "fr": "une ombre",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "la niebla",
+     "fr": "le brouillard",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "la luz",
+     "fr": "la lumière",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "el ambiente",
+     "fr": "l’atmosphère",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "oscuro / oscura",
+     "fr": "sombre",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "solitario / solitaria",
+     "fr": "solitaire / isolé",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "abandonado / abandonada",
+     "fr": "abandonné / abandonnée",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "silencioso / silenciosa",
+     "fr": "silencieux / silencieuse",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "cerca de",
+     "fr": "près de",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "lejos de",
+     "fr": "loin de",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "por la noche",
+     "fr": "la nuit",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "en medio de",
+     "fr": "au milieu de",
+     "cat": "Les lieux et l’atmosphère",
+     "ex": ""
+    },
+    {
+     "es": "la Llorona",
+     "fr": "la Pleureuse",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "una madre",
+     "fr": "une mère",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "los hijos",
+     "fr": "les enfants, par rapport à leurs parents",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "los niños",
+     "fr": "les enfants",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "los habitantes",
+     "fr": "les habitants",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "el llanto",
+     "fr": "les pleurs",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "un lamento",
+     "fr": "une lamentation",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "una voz triste",
+     "fr": "une voix triste",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "la atención",
+     "fr": "l’attention",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "llorar",
+     "fr": "pleurer",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "lamentarse",
+     "fr": "se lamenter",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "salir",
+     "fr": "sortir",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "dejar solos a los niños",
+     "fr": "laisser les enfants seuls",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "lanzar al agua",
+     "fr": "jeter à l’eau",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "ahogarse",
+     "fr": "se noyer",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "morir",
+     "fr": "mourir",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "recibir un castigo",
+     "fr": "recevoir une punition",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "salvar su alma",
+     "fr": "sauver son âme",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "buscar",
+     "fr": "chercher",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "encontrar",
+     "fr": "trouver",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "llamar",
+     "fr": "appeler",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "responder",
+     "fr": "répondre",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "crecer el río",
+     "fr": "monter, pour le niveau du fleuve",
+     "cat": "La Llorona",
+     "ex": "Cuando crece el río, se oye una voz."
+    },
+    {
+     "es": "romper el silencio",
+     "fr": "rompre le silence",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "continuar buscando",
+     "fr": "continuer à chercher",
+     "cat": "La Llorona",
+     "ex": ""
+    },
+    {
+     "es": "un sonido",
+     "fr": "un son",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "un ruido",
+     "fr": "un bruit",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "el silencio",
+     "fr": "le silence",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "una voz",
+     "fr": "une voix",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "un grito",
+     "fr": "un cri",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "un susurro",
+     "fr": "un murmure",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "un eco",
+     "fr": "un écho",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "los pasos",
+     "fr": "les pas",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "la respiración",
+     "fr": "la respiration",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "oír",
+     "fr": "entendre",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "escuchar",
+     "fr": "écouter",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "susurrar",
+     "fr": "chuchoter",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "hablar en voz baja",
+     "fr": "parler à voix basse",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "hablar despacio",
+     "fr": "parler lentement",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "marcar una pausa",
+     "fr": "marquer une pause",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "cambiar el tono de voz",
+     "fr": "changer le ton de la voix",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "destacar una palabra",
+     "fr": "mettre un mot en valeur",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "transmitir miedo",
+     "fr": "transmettre la peur",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "crear suspense",
+     "fr": "créer du suspense",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "sugerir un peligro",
+     "fr": "suggérer un danger",
+     "cat": "Les sons et la voix",
+     "ex": ""
+    },
+    {
+     "es": "una película",
+     "fr": "un film",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "una película de terror",
+     "fr": "un film d’horreur",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "una película de suspense",
+     "fr": "un film à suspense",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "el cine",
+     "fr": "le cinéma",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "la pantalla",
+     "fr": "l’écran",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "un cartel de cine",
+     "fr": "une affiche de cinéma",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "un tráiler / un avance",
+     "fr": "une bande-annonce",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "el título",
+     "fr": "le titre",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "el director / la directora",
+     "fr": "le réalisateur / la réalisatrice",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "un actor",
+     "fr": "un acteur",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "una actriz",
+     "fr": "une actrice",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "un personaje",
+     "fr": "un personnage",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "el protagonista / la protagonista",
+     "fr": "le personnage principal",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "una escena",
+     "fr": "une scène",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "un plano",
+     "fr": "un plan",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "un primer plano",
+     "fr": "un gros plan",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "la cámara",
+     "fr": "la caméra",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "la imagen",
+     "fr": "l’image",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "la banda sonora",
+     "fr": "la bande originale",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "los efectos sonoros",
+     "fr": "les effets sonores",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "la voz en off",
+     "fr": "la voix off",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "un diálogo",
+     "fr": "un dialogue",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "el guion",
+     "fr": "le scénario",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "el rodaje",
+     "fr": "le tournage",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "el estreno",
+     "fr": "la sortie d’un film",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "el espectador / la espectadora",
+     "fr": "le spectateur / la spectatrice",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "una adaptación",
+     "fr": "une adaptation",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "una versión",
+     "fr": "une version",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "un premio",
+     "fr": "un prix / une récompense",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "rodar una película",
+     "fr": "tourner un film",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "interpretar un papel",
+     "fr": "jouer un rôle",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "adaptar",
+     "fr": "adapter",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "reinventar",
+     "fr": "réinventer",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "mostrar",
+     "fr": "montrer",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "anunciar",
+     "fr": "annoncer",
+     "cat": "Le cinéma",
+     "ex": ""
+    },
+    {
+     "es": "a primera vista",
+     "fr": "à première vue",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "en primer plano",
+     "fr": "au premier plan",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "en segundo plano",
+     "fr": "au second plan",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "al fondo",
+     "fr": "à l’arrière-plan",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "en el centro",
+     "fr": "au centre",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "a la izquierda",
+     "fr": "à gauche",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "a la derecha",
+     "fr": "à droite",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "arriba",
+     "fr": "en haut",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "abajo",
+     "fr": "en bas",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "se ve",
+     "fr": "on voit",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "se puede observar",
+     "fr": "on peut observer",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "el color",
+     "fr": "la couleur",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "el contraste",
+     "fr": "le contraste",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "el reflejo",
+     "fr": "le reflet",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "la mirada",
+     "fr": "le regard",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "el rostro",
+     "fr": "le visage",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "el cuerpo",
+     "fr": "le corps",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "el pelo",
+     "fr": "les cheveux",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "un vestido",
+     "fr": "une robe",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "estar tumbado / estar tumbada",
+     "fr": "être allongé / être allongée",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "flotar",
+     "fr": "flotter",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "mirar",
+     "fr": "regarder",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "destacar",
+     "fr": "ressortir / se démarquer",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "representar",
+     "fr": "représenter",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "simbolizar",
+     "fr": "symboliser",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "llamar la atención",
+     "fr": "attirer l’attention",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "despertar la curiosidad",
+     "fr": "éveiller la curiosité",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "crear un ambiente inquietante",
+     "fr": "créer une atmosphère inquiétante",
+     "cat": "Décrire et analyser une affiche",
+     "ex": ""
+    },
+    {
+     "es": "parecer",
+     "fr": "sembler",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "parece que",
+     "fr": "il semble que",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "quizás / tal vez",
+     "fr": "peut-être",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "a lo mejor",
+     "fr": "peut-être",
+     "cat": "Faire des hypothèses",
+     "ex": "A lo mejor es el ruido del agua."
+    },
+    {
+     "es": "imagino que",
+     "fr": "j’imagine que",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "supongo que",
+     "fr": "je suppose que",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "creo que",
+     "fr": "je crois que",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "podría ser",
+     "fr": "cela pourrait être",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "puede ser",
+     "fr": "c’est possible",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "no estoy seguro / no estoy segura",
+     "fr": "je ne suis pas sûr / je ne suis pas sûre",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "me pregunto si",
+     "fr": "je me demande si",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "¿y si…?",
+     "fr": "et si… ?",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "tener la impresión de que",
+     "fr": "avoir l’impression que",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "una explicación",
+     "fr": "une explication",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "una hipótesis",
+     "fr": "une hypothèse",
+     "cat": "Faire des hypothèses",
+     "ex": ""
+    },
+    {
+     "es": "contar",
+     "fr": "raconter",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "ocurrir / suceder / pasar",
+     "fr": "se passer",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "recordar",
+     "fr": "se souvenir de",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "ver",
+     "fr": "voir",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "acercarse",
+     "fr": "s’approcher",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "alejarse",
+     "fr": "s’éloigner",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "entrar",
+     "fr": "entrer",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "salir corriendo",
+     "fr": "sortir en courant",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "regresar",
+     "fr": "revenir / rentrer",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "descubrir",
+     "fr": "découvrir",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "reaccionar",
+     "fr": "réagir",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "al principio",
+     "fr": "au début",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "una noche",
+     "fr": "une nuit",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "un día",
+     "fr": "un jour",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "entonces",
+     "fr": "alors",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "de repente",
+     "fr": "soudain",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "primero",
+     "fr": "d’abord",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "después / luego",
+     "fr": "ensuite",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "más tarde",
+     "fr": "plus tard",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "mientras",
+     "fr": "pendant que",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "cuando",
+     "fr": "quand",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "antes de",
+     "fr": "avant de",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "después de",
+     "fr": "après",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "al final",
+     "fr": "à la fin",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "finalmente",
+     "fr": "finalement",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "desde entonces",
+     "fr": "depuis lors",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "nunca",
+     "fr": "jamais",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "todavía",
+     "fr": "encore",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "ya no",
+     "fr": "ne plus",
+     "cat": "Raconter une histoire",
+     "ex": ""
+    },
+    {
+     "es": "la chica de la curva",
+     "fr": "la fille du virage",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "una carretera",
+     "fr": "une route",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "una curva",
+     "fr": "un virage",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un coche / un automóvil",
+     "fr": "une voiture",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "el conductor / la conductora",
+     "fr": "le conducteur / la conductrice",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "el pasajero / la pasajera",
+     "fr": "le passager / la passagère",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un viajero / una viajera",
+     "fr": "un voyageur / une voyageuse",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un viaje",
+     "fr": "un voyage / un trajet",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un accidente",
+     "fr": "un accident",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un vestido de novia",
+     "fr": "une robe de mariée",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "la ropa blanca",
+     "fr": "les vêtements blancs",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "hacer autostop",
+     "fr": "faire du stop",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "recoger a alguien",
+     "fr": "prendre quelqu’un à bord",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "conducir",
+     "fr": "conduire",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "parar",
+     "fr": "s’arrêter",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "avisar",
+     "fr": "prévenir",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "advertir de un peligro",
+     "fr": "avertir d’un danger",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "morir en un accidente",
+     "fr": "mourir dans un accident",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un jinete",
+     "fr": "un cavalier",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un coche de caballos",
+     "fr": "une voiture à cheval",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un carro",
+     "fr": "une charrette",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "un medio de transporte",
+     "fr": "un moyen de transport",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "antiguamente",
+     "fr": "autrefois",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "medieval",
+     "fr": "médiéval / médiévale",
+     "cat": "La chica de la curva",
+     "ex": ""
+    },
+    {
+     "es": "una pista",
+     "fr": "un indice",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "una prueba",
+     "fr": "une preuve",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "un hecho",
+     "fr": "un fait",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "un artículo",
+     "fr": "un article",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "un mensaje",
+     "fr": "un message",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "verdadero / verdadera",
+     "fr": "vrai / vraie",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "falso / falsa",
+     "fr": "faux / fausse",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "ficticio / ficticia",
+     "fr": "fictif / fictive",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "demostrado / demostrada",
+     "fr": "démontré / démontrée",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "investigar",
+     "fr": "enquêter",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "comprobar",
+     "fr": "vérifier",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "comparar",
+     "fr": "comparer",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "distinguir",
+     "fr": "distinguer",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "explicar",
+     "fr": "expliquer",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "según el artículo",
+     "fr": "selon l’article",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "mientras que",
+     "fr": "tandis que",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "en cambio",
+     "fr": "en revanche",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "en ambos documentos",
+     "fr": "dans les deux documents",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "a diferencia de",
+     "fr": "à la différence de",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "añadir",
+     "fr": "ajouter",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "conservar",
+     "fr": "conserver",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "cambiar",
+     "fr": "changer",
+     "cat": "Enquêter et confronter les versions",
+     "ex": ""
+    },
+    {
+     "es": "en mi opinión",
+     "fr": "à mon avis",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "para mí",
+     "fr": "pour moi",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "pienso que",
+     "fr": "je pense que",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "porque",
+     "fr": "parce que",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "por eso",
+     "fr": "c’est pourquoi",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "sin embargo",
+     "fr": "cependant",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "aunque",
+     "fr": "même si / bien que",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "además",
+     "fr": "de plus",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "por ejemplo",
+     "fr": "par exemple",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "me parece interesante",
+     "fr": "cela me semble intéressant",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "me da curiosidad",
+     "fr": "cela m’intrigue",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "me gustaría ver esta película",
+     "fr": "j’aimerais voir ce film",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "prefiero esta versión",
+     "fr": "je préfère cette version",
+     "cat": "Donner son avis et justifier",
+     "ex": ""
+    },
+    {
+     "es": "trabajar en equipo",
+     "fr": "travailler en équipe",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "repartir los papeles",
+     "fr": "répartir les rôles",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "proponer una idea",
+     "fr": "proposer une idée",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "elegir",
+     "fr": "choisir",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "ponerse de acuerdo",
+     "fr": "se mettre d’accord",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "escribir el guion",
+     "fr": "écrire le scénario",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "crear un cartel",
+     "fr": "créer une affiche",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "grabar",
+     "fr": "enregistrer",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "ensayar",
+     "fr": "répéter",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "representar una escena",
+     "fr": "jouer une scène",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "el narrador / la narradora",
+     "fr": "le narrateur / la narratrice",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "una frase impactante",
+     "fr": "une phrase percutante",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "captar la atención",
+     "fr": "capter l’attention",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "mantener el misterio",
+     "fr": "maintenir le mystère",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    },
+    {
+     "es": "dejar una pregunta sin respuesta",
+     "fr": "laisser une question sans réponse",
+     "cat": "Préparer le projet final en groupe",
+     "ex": ""
+    }
+   ],
+   "updatedAt": 1791463710127
   }
  ]
 }
