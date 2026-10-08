@@ -1,38 +1,6 @@
 {
  "sequences": [
   {
-   "id": "los-jovenes-y-las-redes",
-   "title": "Los jóvenes y las redes sociales",
-   "desc": "Séquence d'exemple · Parler de ses habitudes numériques",
-   "level": "3e",
-   "color": "teal",
-   "published": true,
-   "words": [
-    {"es": "el móvil / el celular", "fr": "le téléphone portable", "cat": "Los aparatos", "ex": "Siempre llevo el móvil en el bolsillo."},
-    {"es": "el ordenador", "fr": "l'ordinateur", "cat": "Los aparatos", "ex": ""},
-    {"es": "la pantalla", "fr": "l'écran", "cat": "Los aparatos", "ex": "Paso demasiado tiempo delante de la pantalla."},
-    {"es": "los auriculares", "fr": "les écouteurs", "cat": "Los aparatos", "ex": ""},
-    {"es": "la tableta", "fr": "la tablette", "cat": "Los aparatos", "ex": ""},
-    {"es": "la red social", "fr": "le réseau social", "cat": "En internet", "ex": ""},
-    {"es": "el perfil", "fr": "le profil", "cat": "En internet", "ex": ""},
-    {"es": "la contraseña", "fr": "le mot de passe", "cat": "En internet", "ex": "Nunca compartas tu contraseña."},
-    {"es": "el seguidor", "fr": "l'abonné (le follower)", "cat": "En internet", "ex": ""},
-    {"es": "el mensaje", "fr": "le message", "cat": "En internet", "ex": ""},
-    {"es": "la publicación", "fr": "la publication", "cat": "En internet", "ex": ""},
-    {"es": "el ciberacoso", "fr": "le cyberharcèlement", "cat": "En internet", "ex": "El ciberacoso es un delito."},
-    {"es": "chatear", "fr": "discuter en ligne", "cat": "Los verbos", "ex": "Chateo con mis amigos por la noche."},
-    {"es": "compartir", "fr": "partager", "cat": "Los verbos", "ex": ""},
-    {"es": "descargar", "fr": "télécharger", "cat": "Los verbos", "ex": ""},
-    {"es": "subir una foto", "fr": "publier une photo", "cat": "Los verbos", "ex": ""},
-    {"es": "navegar por internet", "fr": "naviguer sur internet", "cat": "Los verbos", "ex": ""},
-    {"es": "conectarse", "fr": "se connecter", "cat": "Los verbos", "ex": ""},
-    {"es": "estar enganchado/a", "fr": "être accro", "cat": "Expresiones", "ex": "Mi hermano está enganchado a los videojuegos."},
-    {"es": "pasar tiempo", "fr": "passer du temps", "cat": "Expresiones", "ex": ""},
-    {"es": "a menudo", "fr": "souvent", "cat": "Expresiones", "ex": ""},
-    {"es": "en mi opinión", "fr": "à mon avis", "cat": "Expresiones", "ex": ""}
-   ]
-  },
-  {
    "id": "el-mundo-laboral",
    "title": "El mundo laboral",
    "desc": "Séquence d'exemple · Les métiers et le monde du travail",
@@ -40,22 +8,102 @@
    "color": "coral",
    "published": true,
    "words": [
-    {"es": "el médico / la médica", "fr": "le médecin", "cat": "Las profesiones", "ex": ""},
-    {"es": "el profesor / la profesora", "fr": "le professeur", "cat": "Las profesiones", "ex": ""},
-    {"es": "el enfermero / la enfermera", "fr": "l'infirmier / l'infirmière", "cat": "Las profesiones", "ex": ""},
-    {"es": "el abogado / la abogada", "fr": "l'avocat / l'avocate", "cat": "Las profesiones", "ex": ""},
-    {"es": "el cocinero / la cocinera", "fr": "le cuisinier / la cuisinière", "cat": "Las profesiones", "ex": ""},
-    {"es": "el bombero / la bombera", "fr": "le pompier", "cat": "Las profesiones", "ex": ""},
-    {"es": "el trabajo / el empleo", "fr": "le travail / l'emploi", "cat": "El trabajo", "ex": ""},
-    {"es": "el sueldo", "fr": "le salaire", "cat": "El trabajo", "ex": ""},
-    {"es": "la empresa", "fr": "l'entreprise", "cat": "El trabajo", "ex": ""},
-    {"es": "las prácticas", "fr": "le stage", "cat": "El trabajo", "ex": "Hago mis prácticas en una panadería."},
-    {"es": "el paro", "fr": "le chômage", "cat": "El trabajo", "ex": ""},
-    {"es": "trabajar", "fr": "travailler", "cat": "Los verbos", "ex": ""},
-    {"es": "ganar dinero", "fr": "gagner de l'argent", "cat": "Los verbos", "ex": ""},
-    {"es": "contratar", "fr": "embaucher", "cat": "Los verbos", "ex": ""},
-    {"es": "de mayor quiero ser…", "fr": "plus tard je veux être…", "cat": "Expresiones", "ex": "De mayor quiero ser periodista."},
-    {"es": "me gustaría trabajar en…", "fr": "j'aimerais travailler dans…", "cat": "Expresiones", "ex": ""}
+    {
+     "es": "el médico / la médica",
+     "fr": "le médecin",
+     "cat": "Las profesiones",
+     "ex": ""
+    },
+    {
+     "es": "el profesor / la profesora",
+     "fr": "le professeur",
+     "cat": "Las profesiones",
+     "ex": ""
+    },
+    {
+     "es": "el enfermero / la enfermera",
+     "fr": "l'infirmier / l'infirmière",
+     "cat": "Las profesiones",
+     "ex": ""
+    },
+    {
+     "es": "el abogado / la abogada",
+     "fr": "l'avocat / l'avocate",
+     "cat": "Las profesiones",
+     "ex": ""
+    },
+    {
+     "es": "el cocinero / la cocinera",
+     "fr": "le cuisinier / la cuisinière",
+     "cat": "Las profesiones",
+     "ex": ""
+    },
+    {
+     "es": "el bombero / la bombera",
+     "fr": "le pompier",
+     "cat": "Las profesiones",
+     "ex": ""
+    },
+    {
+     "es": "el trabajo / el empleo",
+     "fr": "le travail / l'emploi",
+     "cat": "El trabajo",
+     "ex": ""
+    },
+    {
+     "es": "el sueldo",
+     "fr": "le salaire",
+     "cat": "El trabajo",
+     "ex": ""
+    },
+    {
+     "es": "la empresa",
+     "fr": "l'entreprise",
+     "cat": "El trabajo",
+     "ex": ""
+    },
+    {
+     "es": "las prácticas",
+     "fr": "le stage",
+     "cat": "El trabajo",
+     "ex": "Hago mis prácticas en una panadería."
+    },
+    {
+     "es": "el paro",
+     "fr": "le chômage",
+     "cat": "El trabajo",
+     "ex": ""
+    },
+    {
+     "es": "trabajar",
+     "fr": "travailler",
+     "cat": "Los verbos",
+     "ex": ""
+    },
+    {
+     "es": "ganar dinero",
+     "fr": "gagner de l'argent",
+     "cat": "Los verbos",
+     "ex": ""
+    },
+    {
+     "es": "contratar",
+     "fr": "embaucher",
+     "cat": "Los verbos",
+     "ex": ""
+    },
+    {
+     "es": "de mayor quiero ser…",
+     "fr": "plus tard je veux être…",
+     "cat": "Expresiones",
+     "ex": "De mayor quiero ser periodista."
+    },
+    {
+     "es": "me gustaría trabajar en…",
+     "fr": "j'aimerais travailler dans…",
+     "cat": "Expresiones",
+     "ex": ""
+    }
    ]
   }
  ]
